@@ -34,7 +34,7 @@ print('Hello, World')
 #        by clicking on the blue bars.  ** Try that now. **
 #
 #     b. When you have completed a TO DO, you should change the word
-#          TODO
+#          TO DO
 #        to
 #          DONE.
 #        Try it now on line 16 above, and note that its blue bar on
@@ -59,7 +59,7 @@ print('Hello, World')
 #   Look at the Console to be sure that your string printed as expected.
 #
 ########################################################################
-print("Hello")
+print("I'll be honest I want to sleep but I'm still having a good time")
 ########################################################################
 #
 # DONE: 4.
